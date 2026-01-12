@@ -13,3 +13,4 @@ jsonschema
 scipy
 joblib
 threadpoolctl
+matplotlib==3.8.4
