@@ -1,5 +1,5 @@
 from xml.parsers.expat import model
-from matplotlib.pyplot import axes
+from matplotlib.axes import Axes
 import streamlit as st
 import pandas as pd
 import plotly.express as px
