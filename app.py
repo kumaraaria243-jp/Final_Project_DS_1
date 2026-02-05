@@ -16,7 +16,7 @@ with tab1:
 
 with tab2:
     import visualisasi
-    visualisasi.chart()
+    visualisasi.visualisasi_chart()
 
 with tab3:
     import machine_learning
