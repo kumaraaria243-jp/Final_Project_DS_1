@@ -105,7 +105,7 @@ def _normalize_yesno_col(series: pd.Series) -> pd.Series:
 # ======================
 # DASHBOARD PAGE
 # ======================
-def chart():
+def visualisasi_chart():
     inject_light_css(hide_sidebar=True)
 
     df = load_data("Paris-Housing-Excel.xlsx")
